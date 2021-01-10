@@ -34,6 +34,7 @@ module.exports = {
       "video/developer"
     ],
     "Integrations": [
+      "integrations/integrations-overview",
       "integrations/slack",
       "integrations/jira",
       "integrations/trello",
